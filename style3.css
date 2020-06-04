@@ -1,0 +1,41 @@
+body,
+html{
+	width: 100% ;
+    height: : 100%;
+	font-family: "Montserrat",sans-serif;
+	background: url(https://images.squarespace-cdn.com/content/v1/54b33dc5e4b0366643773c02/1422238308832-MBIE63VN21G2Q5IQ319Q/ke17ZwdGBToddI8pDm48kL3VKmwKI3leYB51VJjLFB8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcgK5SGg9Ovb1yloBBOHcruw_mYLfAhRzzgArFCB07Dw0L8n4JypuoE5Tg6Wg5Oyvs/SN01_TheBoyWhoCriedWolf.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.buffer{
+	height: 10rem;
+}
+
+h1{
+	font-size: 3rem;
+	color: #566573 ;
+}
+.btn{
+font-weight: 700;
+border-radius: 300px;
+text-transform: uppercase;
+}
+.btn-warning {
+	background-color: #D68910;
+	border-color: #D68910;
+}
+.btn-warning: hover {
+	background-color: #ee4b08;
+	border-color: #ee4b08;
+	border-width: 4px;
+}
+.btn-xl{
+	padding: 1rem 2rem ;
+}
+hr{
+	border-color: #D68910;
+	border-width: 3px;
+	max-width: 65px;
+}
